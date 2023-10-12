@@ -77,7 +77,7 @@ def main(): # メインループ
         # 星のスクロール
 
         pygame.display.update()
-        clock.tick(10)
+        clock.tick(60)
 
 if __name__ == '__main__':
     main()
